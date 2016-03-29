@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name        Duolingo flipcards speaker
-// @description Add speaker to duolingo feature "review flipcards"
+// @name        Duolingo flashcards speaker
+// @description Add speaker to duolingo feature "review flashcards"
 // @namespace   vokracko
 // @author      Lukáš Vokráčko
 // @include     https://www.duolingo.com/*
 // @version     1.0
 // @grant       none
 // @encoding    utf-8
-// @downloadURL https://raw.githubusercontent.com/vokracko/Duolingo-flipcards-speaker/master/duolingo-flashcards.js
+// @downloadURL https://raw.githubusercontent.com/vokracko/Duolingo-flashcards-speaker/master/duolingo-flashcards.js
 // ==/UserScript==
 
 var target = document.querySelector('body');
